@@ -1,0 +1,3 @@
+[submodule "twitter-video-dl"]
+	path = twitter-video-dl
+	url = https://github.com/inteoryx/twitter-video-dl
